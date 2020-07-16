@@ -1,0 +1,6 @@
+# pack-refs with: peeled fully-peeled sorted 
+32e0abe3d78708256d703cf204477a332abdebc3 refs/remotes/origin/container-rename
+455d5ce0a057496d6b93f85721b2171cd2f0c7a8 refs/remotes/origin/devcontainer
+0323c95a04c2a8324c2e411819c169882dd25903 refs/remotes/origin/frontend-backend-dependencies
+eab4fd8bff7cadfa45d1d74d80e4d83c485bec99 refs/remotes/origin/master
+671d01d30d132b67a324af633b689303e224eab4 refs/remotes/origin/update-versions
